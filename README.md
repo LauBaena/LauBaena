@@ -1,7 +1,8 @@
 <h1 align="center">Hi everyone, I'm Laura!</h1>
 <h3 align="center">A passionate front and backend developer from Barcelona.</h3>
 
-- 🌱 I’m currently finishing my **Certificate of Higher Education** in web application development
+- 🌱 I just finished my **Certificate of Higher Education** in Web Application Development and I am enthusiastic about launching my professional career, contributing to new projects,
+and continuing to learn and expand my skills and expertise.
 
 - 💬 Ask me about **my projects!**
 
